@@ -1,0 +1,19 @@
+---
+organization:
+  name: Kanini
+  departments:
+    - name: HR
+      employees:
+        - name: Priya
+        - name: Mozhi
+    - name: Product Engineering
+      employees:
+        - name: Baskar
+        - name: Ramesh
+    - name: Data Science
+      employees:
+        - name: Anand
+        - name: Bala
+    - name: Service Now
+      employees:
+        - name: Yoga
