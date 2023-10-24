@@ -325,24 +325,24 @@ Step 1: Create a .NET Core Web API Project
 
 Step 2: Build the .NET Core Web API Project
 
+![](dotnet3.jpg)
+
 Step 3: Dockerize the .NET Core Web API
 
 Step 4: Build the Docker Image
 
+![](dotnet2.jpg)
+
+
 Step 5: Run the Docker Container in Rancher Desktop
+
+![](dotnet4.jpg)
 
 Step 6: Test the .NET Core Web API via swagger
 
+![](dotnet1.jpg)
 
 
 
 
 
-
-
-
-[ref1]: Aspose.Words.94546908-2e1b-4cb7-b832-c60eadf3c47b.004.png
-[ref2]: Aspose.Words.94546908-2e1b-4cb7-b832-c60eadf3c47b.005.png
-[ref3]: Aspose.Words.94546908-2e1b-4cb7-b832-c60eadf3c47b.006.png
-[ref4]: Aspose.Words.94546908-2e1b-4cb7-b832-c60eadf3c47b.007.png
-[ref5]: Aspose.Words.94546908-2e1b-4cb7-b832-c60eadf3c47b.012.png
